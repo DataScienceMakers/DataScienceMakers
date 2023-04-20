@@ -25,7 +25,11 @@
     - Services d'apprentissage automatique
     - Expédition de modèles développés
  
-
+## Nos domaines d'intervention:
+    - Education
+    - Sante
+    - Agriculture
+    - Finance
 
 
 
