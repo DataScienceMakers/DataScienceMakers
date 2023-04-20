@@ -16,14 +16,14 @@
 
 ## Nos portefuilles:
   
-- Services de science des données exceptionnels :
+- Le meilleur des science des données:
     - Conseil en science des données
     - Recherche en science des données
     - Preuve de concepts en science des données
 
-- Services d'apprentissage automatique sensationnels:
+- Tirer parti de l'apprentissage automatique:
     - Services d'apprentissage automatique
-    - Expédier un modèle développé
+    - Expédition de modèles développés
  
 
 
